@@ -1,0 +1,23 @@
+html,body{
+	margin:0;
+	padding: 0;
+}
+.metn{
+	width: 400px;
+	height: 150px;
+	background: yellow;
+	margin: 0 auto;
+}
+.metn p{
+	color: red;
+
+}
+.commondB{
+	width: 400px;
+	height: 20px;
+	margin: 0 auto;
+}
+.buttons{
+	width: 130px;
+	height: 20px;
+}
